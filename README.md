@@ -1,0 +1,2 @@
+‘Bharat Raahat Kendra’ is a multilingual platform.Through this platform, several emergency service providers and rescue organizations such as disaster management agencies, medical service providers, fire stations, police 
+station, news channels etc can communicate, coordinate, and work together to make it easier to handle any type of disaster in India. Furthermore, it offers specific functionalities like facial recognition and biometric authentication enabling individual identification of those who are affected.
